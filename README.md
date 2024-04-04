@@ -3,7 +3,7 @@ Fetch Coding Exercise
 
 Step to run the code :
 
-Step 1 : Clone or download fake_bar.py in to local system
+Step 1 : Clone or download fake_bar.py in to local system \n
 Step 2 : Install Python 2.7
 Step 3 : Download https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.90/ 
 Step 4 : Unzip above and copy path for chromedriver.exe . we will use this later
